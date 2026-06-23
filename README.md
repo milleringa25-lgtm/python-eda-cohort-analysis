@@ -38,15 +38,14 @@ Based on the results of the study, the following strategic insights and recommen
 ```text
 python-eda-cohort-analysis/
 │
-│
 ├── data/
-│ └── client_base.xlsx
+│   └── client_base.xlsx
 │
 ├── notebooks/
-│ └── retention_cohort_analysis_colab.ipynb
+│   └── retention_cohort_analysis_colab.ipynb
 │
 └── docs/
-└── index.html
+    └── index.html
 ├── README.md
 ├── requirements.txt
 ```
