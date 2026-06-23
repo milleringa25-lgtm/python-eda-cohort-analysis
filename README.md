@@ -48,12 +48,12 @@ Based on the results of the study, the following strategic insights and recommen
 ```text
 python-eda-cohort-analysis/
 ├── data/
-│   └── client_base.xlsx                 # Dataset used for the analysis
+│   └── client_base.xlsx (dataset used for the analysis)
 ├── docs/
-│   └── index.html                       # Exported interactive HTML report
+│   └── index.html (exported interactive HTML report)
 ├── notebooks/
-│   └── retention_cohort_analysis_colab.ipynb  # Full analysis workflow (Google Colab)
-├── README.md                            # Project overview and documentation
-└── requirements.txt                     # List of Python dependencies
+│   └── retention_cohort_analysis_colab.ipynb (full analysis workflow (Google Colab))
+├── README.md (project overview and documentation)
+└── requirements.txt (list of Python dependencies)
 ```
 
