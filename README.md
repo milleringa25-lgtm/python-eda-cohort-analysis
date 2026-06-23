@@ -33,3 +33,21 @@ Based on the results of the study, the following strategic insights and recommen
 ### Recommendations:
 1. **Focus on Retention:** It is essential to scale marketing activities aimed at retaining customers during months 1–2 after their first purchase.
 2. **Budget Optimization:** It is recommended to scale advertising in organic or lower-cost acquisition channels, such as **Email Marketing** and **Referral Programs**, which demonstrate high efficiency in attracting a targeted and loyal audience.
+
+## Repository layout
+```text
+python-eda-cohort-analysis/
+│
+│
+├── data/
+│ └── client_base.xlsx
+│
+├── notebooks/
+│ └── retention_cohort_analysis_colab.ipynb
+│
+└── docs/
+└── index.html
+├── README.md
+├── requirements.txt
+```
+---
