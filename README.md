@@ -19,7 +19,7 @@ The project is implemented in **Python** within the Jupyter Notebook environment
 The project was originally created in Google Colab.  
 The notebook contains the full analysis workflow: data loading, EDA, cohort calculation, retention analysis, revenue analysis, visualizations, and HTML report generation.
 
-## ** [Open in Google Colab]([(https://colab.research.google.com/drive/1BF7nyBD92BV-qGFnoFsk78_CQLZnnY2M?usp=sharing)] **
+## ** [Open in Google Colab](https://colab.research.google.com/drive/1BF7nyBD92BV-qGFnoFsk78_CQLZnnY2M?usp=sharing) **
 
 
 ## HTML Report
