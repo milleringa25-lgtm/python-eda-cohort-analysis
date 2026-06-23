@@ -19,7 +19,7 @@ The project is implemented in **Python** within the Jupyter Notebook environment
 The project includes an exported static HTML report featuring interactive charts and detailed summary sections. 
 
 If GitHub Pages is enabled for this repository, you can view the live report here:
-## **[Click here to open the notebook directly in Google Colab]([https://milleringa25-lgtm.github.io/python-eda-cohort-analysis/)])**
+## ** [Click here to open the notebook directly in Google Colab](https://milleringa25-lgtm.github.io/python-eda-cohort-analysis/) **
 
 ---
 
