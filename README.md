@@ -19,12 +19,12 @@ The project is implemented in **Python** within the Jupyter Notebook environment
 The project was originally created in Google Colab.  
 The notebook contains the full analysis workflow: data loading, EDA, cohort calculation, retention analysis, revenue analysis, visualizations, and HTML report generation.
 
-[Open in Google Colab]([(https://colab.research.google.com/drive/1BF7nyBD92BV-qGFnoFsk78_CQLZnnY2M?usp=sharing)]
+## ** [Open in Google Colab]([(https://colab.research.google.com/drive/1BF7nyBD92BV-qGFnoFsk78_CQLZnnY2M?usp=sharing)] **
 
 
 ## HTML Report
 
-Thhe project also includes an exported HTML report.  
+The project also includes an exported HTML report.  
 This report is a static version of the analysis with charts and summary sections.
 
 If GitHub Pages is enabled for this repository, the HTML report can be viewed here
