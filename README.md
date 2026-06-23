@@ -14,6 +14,15 @@ The project is implemented in **Python** within the Jupyter Notebook environment
 
 ---
 
+# HTML Report
+
+The project includes an exported static HTML report featuring interactive charts and detailed summary sections. 
+
+If GitHub Pages is enabled for this repository, you can view the live report here:
+## **[Click here to open the notebook directly in Google Colab](https://google.com[milleringa25-lgtm]/[python-eda-cohort-analysis]/blob/main/notebooks/retention_cohort_analysis_colab.ipynb)**
+
+---
+
 ## Results Obtained
 During the dataset analysis, the following steps were completed, resulting in the corresponding analytical artifacts:
 1. **Data Preprocessing Stage:** Conducted an initial analysis of the data structure, filled missing values, verified and corrected anomalies, and converted time metrics into the required formats.
@@ -34,19 +43,17 @@ Based on the results of the study, the following strategic insights and recommen
 1. **Focus on Retention:** It is essential to scale marketing activities aimed at retaining customers during months 1–2 after their first purchase.
 2. **Budget Optimization:** It is recommended to scale advertising in organic or lower-cost acquisition channels, such as **Email Marketing** and **Referral Programs**, which demonstrate high efficiency in attracting a targeted and loyal audience.
 
-## Repository layout
+## Project Structure
+
 ```text
 python-eda-cohort-analysis/
-│
 ├── data/
-│   └── client_base.xlsx
-│
+│   └── client_base.xlsx                 # Dataset used for the analysis
+├── docs/
+│   └── index.html                       # Exported interactive HTML report
 ├── notebooks/
-│   └── retention_cohort_analysis_colab.ipynb
-│
-└── docs/
-    └── index.html
-├── README.md
-├── requirements.txt
+│   └── retention_cohort_analysis_colab.ipynb  # Full analysis workflow (Google Colab)
+├── README.md                            # Project overview and documentation
+└── requirements.txt                     # List of Python dependencies
 ```
----
+
